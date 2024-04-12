@@ -18,6 +18,7 @@ Heart failure affects millions, with hospitalizations not only increasing mortal
 1. **End-to-End Demo System**: To research end-user requirements and facilitate the co-creation of mainstream market products.
 2. **Clinical Studies Support**: Providing evidence required by investors and for customer commitment.
 
+![Remote Patient Monitoring Framework Diagram](https://github.com/karankarthik/bodiguide/blob/2c55af13e92af6a981e05f3c82455191a6ea5c42/Remote%20Patient%20Monitoring.png)
 
 ## Project Activities and Timeline
 
